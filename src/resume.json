@@ -1,0 +1,59 @@
+{
+  "basics": {
+    "name": "Pieter Herman",
+    "label": "Full Stack Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/52376537?s=460&u=2b6104a1b30b962642813236d0878f0baf3661d9&v=4",
+    "email": "info@pieterherman.co.ukl",
+    "phone": "000000000",
+    "website": "http://pieterherman.dev",
+    "summary": "Innovative and proactive Software Engineer and IT Programming Specialist with a passion for learning about new technologies, frameworks and programming languages, and a determination to excel in all tasks. Possesses a never-give-up attitude, successfully working on and solving complex problems with a magical and creative approach to project management; thriving under pressure to deliver the highest quality results. Loves working with dynamic international teams, contributing to and continually learning from senior developers to provide clients with solutions that exceed expectations across functionality, stability and security. Currently seeking a new and exciting opportunity in which to utilise existing communication and negotiation skills to secure new business and gather requirements, collaborating effectively to ensure faults are resolved and projects completed successfully.",
+    "location": {
+      "address": "Belgium",
+      "postalCode": "2000",
+      "city": "Antwerp",
+      "countryCode": "Belgium",
+      "region": "Flemish Region"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "bepieter",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "pieterherman-dev",
+        "url": ""
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "React Native",
+        "Javascript"     
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Tabaknatie NV",
+      "position": "Full Stack Developer",
+      "startDate": "2018-04-01",
+      "endDate": "",
+      "summary": "",
+      "location": "Antwerp, Belgium",
+      "highlights": []
+     }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
