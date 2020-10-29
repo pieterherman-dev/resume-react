@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "name": "Pieter Herman ✔",
+    "label": "Full Stack Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/52376537?s=460&u=2b6104a1b30b962642813236d0878f0baf3661d9&v=4",
+    "email": "info@pieterherman.co.uk",
+    "phone": "000000000",
+    "website": "http://pieterherman.dev",
+    "summary": "Innovative and proactive Software Engineer and IT Programming Specialist with a passion for learning about new technologies, frameworks and programming languages, and a determination to excel in all tasks. Possesses a never-give-up attitude, successfully working on and solving complex problems with a magical and creative approach to project management; thriving under pressure to deliver the highest quality results. Loves working with dynamic international teams, contributing to and continually learning from senior developers to provide clients with solutions that exceed expectations across functionality, stability and security. Currently seeking a new and exciting opportunity in which to utilise existing communication and negotiation skills to secure new business and gather requirements, collaborating effectively to ensure faults are resolved and projects completed successfully.",
+    "location": {
+      "address": "Belgium",
+      "postalCode": "2000",
+      "city": "Antwerp",
+      "countryCode": "Belgium",
+      "region": "Flemish Region"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "bepieter",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "pieterherman-dev",
+        "url": ""
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "React Native",
+        "Node",
+        "Android Development",
+        "Web Development",
+        "Scrum",
+        "Requirements Gathering",
+        "Client Relationship Management",
+        "Website Development",
+        "Content Management Systems (CMS)",
+        "C#",
+        "MySQL",
+        "XML",
+        "JavaScript",
+        "PHP",
+        "Linux",
+        "HTML5",
+        "CSS",
+        "jQuery",
+        "Android",
+        "Git",
+        "Management",
+        "eWam",
+        "Wynsure",
+        "Full-Stack Development",
+        "TypeScript",
+        "Python" 
+       ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Tabaknatie NV",
+      "position": "Full Stack Developer",
+      "startDate": "Apr 2018",
+      "endDate": "",
+      "summary": "Developed, implemented and maintained 3+ web apps and 6+ mobile apps. Designed and implemented in-house NPM modules. Troubleshooted issues affecting production, stage, and development environments as requested. Actively participates and engages the Software Support team in resolving production issues. Integrated app-based solutions with databases, file systems, and cloud-based systems. Presented software design issues, questions, and suggestions for the purpose of arriving at alternative courses of action.",
+      "location": "Antwerp, Belgium",
+      "highlights": []
+     },
+     {
+      "company": "ORBCOMM",
+      "position": "Technical Support / Quality Engineer Tier 3 Service",
+      "startDate": "Jun 2017",
+      "endDate": "Apr 2018",
+      "summary": "Provides immediate support to the worldwide sales by offering technical implementation solutions. Setup action plans and develop standards to bring international support to a higher level. Created improvement proposals for software and firmware and aware of the consequences of the suggested changes on the total system. Created technical documentation. Worked with GAMP5 quality standards.",
+      "location": "Heerlen, The Nederlands",
+      "highlights": []
+     },
+     {
+      "company": "Oberthur Technologies",
+      "position": "Support Engineer / Data Administrator /  Operations Support & Pre Production Payment",
+      "startDate": "Nov 2015",
+      "endDate": "May 2017",
+      "summary": "Carrying out automation of client’s digital order requests, establishing new\nprojects and maintaining existing processes, including undertaking system\ntesting to solve local and functional errors, backup and restore.\nCollaborated with level 2 personnel in France and Level 1 colleagues\nworldwide to create new functionalities and assisted with section work outside\npre-production.\nFirst level support for production in terms of tools & applications.\nAnalysis and resolution problems occurring in daily production.\nActive searching for optimal solutions to fit customer requirements and\ncapabilities of the processes.\nPreparation of production test carried out in accordance with security and\nquality processes.\nIdentifying and solving problems with software used in the data generation\nprocess\nEnsure timely and correct completion of tasks for data administration,\nimplementation of new products as well as change requests\nMaintaining close cooperation and good communication with other\ndepartments in order to efficient solve production problems.\nCreating and upgrading technical specifications, instructions and procedures\nin Dutch and English.\nSupported the installation and configuration of Linux OS and generated\nreports using Microsoft SQL Server Report Builder.",
+      "location": "Sittard, The Netherlands",
+      "highlights": []
+     },
+     {
+      "company": "GO! Onderwijs van de Vlaamse Gemeenschap",
+      "position": "Web Developer",
+      "startDate": "Jun 2006",
+      "endDate": "Jan 2017",
+      "summary": "Ultimately responsible for managing all aspects of the Primary School De Duizendpoot web development project, including all coding and site design Key Project Achievements. Developing a web site that was modern while maintaining the organisational commitments to maximising equal education opportunities, allowing the school to easily maintain and update it themselves. Incorporating into the design a solid message representing the school as good and creative, resulting in a significant increase in visitor numbers, including parents utilising it to access vital information and news.",
+      "location": "West Flanders, Belgium",
+      "highlights": []
+     },
+     {
+      "company": "Synapp",
+      "position": "Software Engineer and CEO of the Company",
+      "startDate": "May 2014",
+      "endDate": "Feb 2015",
+      "summary": "Designing and developing Android mobile applications and a bespoke\ncontent management system, with software development in Java, PHP,\nOracle, SQL Server and other mainstream technologies",
+      "location": "Ghent, Belgium",
+      "highlights": []
+     },
+     {
+      "company": "Ixe Media Cabo",
+      "position": "Web Developer",
+      "startDate": "Oct 2013",
+      "endDate": "Jan 2014",
+      "summary": "Mobile app development in Java.\nweb development in PHP, Oracle SQL Server.",
+      "location": "Cabo San Lucas, Mexico",
+      "highlights": []
+     },
+     {
+      "company": "Transics",
+      "position": "Servicedesk Frontoffice Engineer",
+      "startDate": "Sep 2013",
+      "endDate": "Dec 2013",
+      "summary": "Provided guidance and advice to customers in Europe regarding technical and\nsubstantive questions relating to hardware and software",
+      "location": "Ypres, Belgium",
+      "highlights": []
+     },
+     {
+      "company": "Khalidya Smart IT (Abu Dahbi)",
+      "position": "Web Developer",
+      "startDate": "Aug 2011",
+      "endDate": "Sep 2013",
+      "summary": "Responsible for the development of Mobile Apps for BlackBerry, IOS, Android\nplatforms with involvement in CMS development\nmobile app development in Java, C, C++\nweb development in PHP, Oracle SQL Server, jQuery, JavaScript, HTML5,\nCSS.",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "highlights": []
+     },
+     {
+      "company": "Belgacom",
+      "position": "Support Agent",
+      "startDate": "May 2011",
+      "endDate": "Aug 2011",
+      "summary": "",
+      "location": "Antwerp, Belgium",
+      "highlights": []
+     },
+     {
+      "company": "IT Cityhouse-consulting",
+      "position": "Software Developer",
+      "startDate": "Mar 2011",
+      "endDate": "May 2011",
+      "summary": "Software development in J2EE (Java), Microsoft (.NET), Oracle, SQL Server\nand many other mainstream technologies",
+      "location": "London, United Kingdom",
+      "highlights": []
+     },
+     {
+      "company": "Belgacom",
+      "position": "Support Agent",
+      "startDate": "Feb 2011",
+      "endDate": "May 2011",
+      "summary": "web development in PHP, Oracle SQL Server, jQuery, JavaScript, HTML5,\nCSS.",
+      "location": "London, United Kingdom",
+      "highlights": []
+     },
+     {
+      "company":  "European Business Operations & Services, France",
+      "position": "Marketing / Call Agent",
+      "startDate": "Sep 2010",
+      "endDate": "Jan 2011",
+      "summary": "Played a pivotal role in the management of the complete sales process on a\nwide range of projects with the primary focus on recruiting new customers via\noutbound calling\n-Responsible for the development of relationships with prospective customers\nat management level and worked in close conjunction with the Account\nManager",
+      "location": "Tourcoing, France",
+      "highlights": []
+     },
+     {
+      "company":  "Kontactel",
+      "position": "Vodafone Morocco",
+      "startDate": "May 2010",
+      "endDate": "Aug 2011",
+      "summary": "Liaised extensively with both new and existing clients, established their\nspecific requirements and implemented appropriate project plans accordingly\n-Provided a professional first point of contact for clients including advising them\non the progress and achievements of projects\n-Identified and maximised opportunities to secure new assignments and\nprojects with existing clients",
+      "location": "Tangier, Morocco",
+      "highlights": []
+     },
+     {
+      "company":  "UNIT4 Agresso AB",
+      "position": "Software Developer",
+      "startDate": "Dec 2009",
+      "endDate": "Jan 2010",
+      "summary": "Worked in close conjunction with other members of the software development\nteam on the implementation of a range of high quality, accounting software\nproducts\n-Demonstrated an excellent working knowledge of cutting tools, programming\nlanguages, techniques and methodologies.\nSoftware development in C#.NET , MS SQL, SharePoint.",
+      "location": "Utrecht, The Netherlands",
+      "highlights": []
+     },
+     {
+      "company":  "DeLorentz & Partners",
+      "position": "Software Developer",
+      "startDate": "Sep 2008",
+      "endDate": "Jul 2009",
+      "summary": "Utilised SharePoint for the purposes of building a website and an Intranet site\nwith responsibility for ensuring strict adherence to client specifications and\nbusiness requirements.\nWeb development in Sharepoint, ASP.NET, C#.NET",
+      "location": "Hilversum, The Netherlands",
+      "highlights": []
+     },
+     {
+      "company": "Sogyo",
+      "position": "Software Developer",
+      "startDate": "Dec 2007",
+      "endDate": "Aug 2008",
+      "summary": "Played a key role on the Sogyo MailClient project with specific responsibility\nfor Microsoft .NET implementation using C# and Visual Studio.Net\n-Coordinated the seamless integration of a component within the application to\nenable emails to be received and encoded.",
+      "location": "De Bilt, The Netherlands",
+      "highlights": []
+     },
+     {
+      "company": "KPN",
+      "position": "Software Developer",
+      "startDate": "Jan 2007",
+      "endDate": "Dec 2007",
+      "summary": "Played a key role on the Sogyo MailClient project with specific responsibility\nfor Microsoft .NET implementation using C# and Visual Studio.Net\n-Coordinated the seamless integration of a component within the application to\nenable emails to be received and encoded.",
+      "location": "Enschede, The Netherlands",
+      "highlights": []
+     }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universiteit van Amsterdam",
+      "area": "",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
