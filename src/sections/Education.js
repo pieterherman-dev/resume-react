@@ -8,7 +8,6 @@ const Education = props => {
 			<div key={index}>
 				<h3>{item.studyType} {item.area}</h3>
 				<h4>{item.institution}</h4>
-				<p>Studied: {item.startDate} - {item.endDate}</p>
 			</div>
 			)
 	});

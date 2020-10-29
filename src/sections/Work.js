@@ -14,7 +14,7 @@ const Work = props => {
 
   return (
     <section className="work">
-      <h2><i className="fa fa-lg fa-building"></i> Work experience</h2>
+      <h2><i className="fa fa-briefcase"></i> Work experience</h2>
       {getWorkExperience()}
     </section>
   );

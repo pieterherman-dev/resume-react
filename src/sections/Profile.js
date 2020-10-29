@@ -12,6 +12,7 @@ const Profile = props => {
       <ul className="contact-links text-center">
         <li><i className="fa fa-location-arrow"></i>{profileData.location.city}, {profileData.location.region}, {profileData.location.countryCode}</li>
         <li><i className="fa fa-envelope"></i><a href={`mailto:${profileData.email}`}>{profileData.email}</a></li>
+        <li><i className="fa fa-download"></i><a  href={'https://pieterherman.dev/downloads/resume-pieterh.pdf'}><span>PDF version of the resume.</span></a></li>
       </ul>
       <div className="divider"></div>
       <ul className="profileLinks text-center">
@@ -19,6 +20,9 @@ const Profile = props => {
         <li><a className="fa fa-github fa-2x" href={'https://github.com/'+profileData.profiles[1].username}><span className="sr-only">github</span></a></li>
       </ul>
       <div className="divider"></div>
+      <ul className="contact-links text-center">
+        <li>Built with React components.</li> 
+      </ul>
      </div>
   )
 };

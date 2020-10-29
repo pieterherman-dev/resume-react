@@ -3,7 +3,7 @@ html, body {
   padding: 0;
 }
 body {
-  background: #f0f0f0;
+  background: #FAFAFA;
   font-family: 'Roboto', sans-serif;
 }
 p {
@@ -122,6 +122,13 @@ a {
 }
 .workDates {
   color: #777;
+  margin: 0 auto;
+
+}
+.workLocation {
+  color: #777;
+  margin: 0 auto;
+
 }
 
 .text-uppercase {
