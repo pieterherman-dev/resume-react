@@ -5,7 +5,7 @@ const Profile = props => {
   const { profileData} = props
   return (
     <div>
-      <div className="profileImg"><img role="presentation" className="img-circle center-block" src={profileData.picture} width="200" alt="profile pic" /></div>
+      <div className="profileImg"><img role="presentation" className="img-circle center-block" src={profileData.picture} width="200"   alt="profile pic" /></div>
       <h1 className="text-center">{profileData.name}</h1>
       <h2 className="text-center">{profileData.label}</h2>
       <div className="divider"></div>
