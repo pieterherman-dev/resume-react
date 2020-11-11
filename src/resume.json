@@ -2,9 +2,9 @@
   "basics": {
     "name": "Pieter Herman ✔",
     "label": "Full Stack Developer",
-    "picture": "https://avatars3.githubusercontent.com/u/52376537?s=460&u=2b6104a1b30b962642813236d0878f0baf3661d9&v=4",
+    "picture": "https://www.pieterherman.dev/photos/pieter.png",
     "email": "info@pieterherman.co.uk",
-    "phone": "000000000",
+    "phone": "+32471657271",
     "website": "http://pieterherman.dev",
     "summary": "Innovative and proactive Software Engineer and IT Programming Specialist with a passion for learning about new technologies, frameworks and programming languages, and a determination to excel in all tasks. Possesses a never-give-up attitude, successfully working on and solving complex problems with a magical and creative approach to project management; thriving under pressure to deliver the highest quality results. Loves working with dynamic international teams, contributing to and continually learning from senior developers to provide clients with solutions that exceed expectations across functionality, stability and security. Currently seeking a new and exciting opportunity in which to utilise existing communication and negotiation skills to secure new business and gather requirements, collaborating effectively to ensure faults are resolved and projects completed successfully.",
     "location": {
@@ -34,6 +34,7 @@
       "keywords": [
         "React",
         "React Native",
+        "NextJS",
         "Node",
         "Android Development",
         "Web Development",
@@ -64,10 +65,19 @@
   ],
   "work": [
     {
+      "company": "Yes By JP",
+      "position": "Chief Executive Officer & Full Stack Engineer",
+      "startDate": "Oct 2020",
+      "endDate": "",
+      "summary": "Co-Founder & Full Stack Developer at Yes by JP. Development and implementation of web applications (React, NextJs) and Android and iOS apps with React Native",
+      "location": "Antwerp, Belgium",
+      "highlights": []
+     },
+    {
       "company": "Tabaknatie NV",
       "position": "Full Stack Developer",
       "startDate": "Apr 2018",
-      "endDate": "",
+      "endDate": "Oct 2020",
       "summary": "Developed, implemented and maintained 3+ web apps and 6+ mobile apps. Designed and implemented in-house NPM modules. Troubleshooted issues affecting production, stage, and development environments as requested. Actively participates and engages the Software Support team in resolving production issues. Integrated app-based solutions with databases, file systems, and cloud-based systems. Presented software design issues, questions, and suggestions for the purpose of arriving at alternative courses of action.",
       "location": "Antwerp, Belgium",
       "highlights": []
@@ -212,7 +222,7 @@
       "position": "Software Developer",
       "startDate": "Jan 2007",
       "endDate": "Dec 2007",
-      "summary": "Played a key role on the Sogyo MailClient project with specific responsibility\nfor Microsoft .NET implementation using C# and Visual Studio.Net\n-Coordinated the seamless integration of a component within the application to\nenable emails to be received and encoded.",
+      "summary": "",
       "location": "Enschede, The Netherlands",
       "highlights": []
      }
